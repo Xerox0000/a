@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: xexrox-youtube
+    name: xexrox-youtube01
     env: python
     region: Oregon
     plan: free
